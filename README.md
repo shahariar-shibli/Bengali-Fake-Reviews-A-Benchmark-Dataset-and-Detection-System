@@ -11,12 +11,16 @@ that combines four pre-trained transformers: *BanglaBERT, BanglaBERT Base, Bangl
 
 The paper **"Bengali Fake Reviews: A Benchmark Dataset and Detection System"** is published in [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing), a **Q1 journal** by Elsevier.
 
+**Paper Link**: https://www.sciencedirect.com/science/article/abs/pii/S0925231224005034
+
 ## Repository Structure
 The repository has two folders:
 
-Code: All the codes for deep learning models, transformers, ensemble model and text conversion pipeline are available.
-Dataset: Contains two excel files (a) fake.xlsx (b) non-fake xlsx
-Each file contains two columns: **Review** (collected raw reviews), **Label** (annotations).
+**Codes**: All the codes for deep learning models, transformers, ensemble model and text conversion pipeline are available.
+
+**Dataset**: Contains two excel files (a) fake.xlsx (b) non-fake.xlsx
+
+Each excel file contains two columns: **Review** (collected raw reviews), **Label** (annotations).
 
 
 ## Dataset Statistics 
