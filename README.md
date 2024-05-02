@@ -48,6 +48,12 @@ Each excel file contains two columns: **Review** (collected raw reviews), **Labe
 ## Class wise ratio of number of reviews with respect to the review length
 <img src="lengthChart.png" width="600" height="500">
 
+## Methodology
+<img src="Methodology.png" width="600" height="500">
+
+## Example Explanation
+<img src="LIME.png" width="600" height="500">
+
 ## Citation
 If you use the datasets, please cite the following paper:
 ```
