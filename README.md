@@ -16,11 +16,9 @@ The paper **"Bengali Fake Reviews: A Benchmark Dataset and Detection System"** i
 ## Repository Structure
 The repository has two folders:
 
-**Codes**: All the codes for deep learning models, transformers, ensemble model and text conversion pipeline are available.
++ **Codes**: All the codes for deep learning models, transformers, ensemble model and text conversion pipeline are available.
 
-**Dataset**: Contains two excel files (a) fake.xlsx (b) non-fake.xlsx
-
-Each excel file contains two columns: **Review** (collected raw reviews), **Label** (annotations).
++ **Dataset**: Contains two excel files (a) fake.xlsx (b) non-fake.xlsx. Each excel file contains two columns: **Review** (collected raw reviews), **Label** (annotations).
 
 **Our Dataset on HuggingFace**: https://huggingface.co/datasets/shawon95/Bengali-Fake-Review-Dataset
 
@@ -46,13 +44,13 @@ Each excel file contains two columns: **Review** (collected raw reviews), **Labe
 | Avg number of unique words |   84.99  |     88.42    |
 
 ## Class wise ratio of number of reviews with respect to the review length
-<img src="lengthChart.png" width="600" height="500">
+<img src="lengthChart.png" width="300" height="500">
 
 ## Methodology
-<img src="Methodology.png" width="600" height="500">
+<img src="Methodology.png" width="300" height="500">
 
 ## Example Explanation
-<img src="LIME.png" width="600" height="500">
+<img src="LIME.png" width="300" height="500">
 
 ## Citation
 If you use the datasets, please cite the following paper:
