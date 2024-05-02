@@ -33,7 +33,7 @@ The repository has two folders:
 	- Fake - 1339
 	- Non-fake - 7710
 
-## Class wise statistics of BFRD dataset
+- Class wise statistics of BFRD dataset
 |       **Statistics**       | **Fake** | **Non-fake** |
 |--------------------------|---------|-------------|
 |         Total words        | 1,55,789 |   9,27,902   |
@@ -42,14 +42,14 @@ The repository has two folders:
 |    Avg number of  words    |  116.35  |    120.35    |
 | Avg number of unique words |   84.99  |     88.42    |
 
-## Class wise ratio of number of reviews with respect to the review length
+- Class wise ratio of number of reviews with respect to the review length
 <img src="lengthChart.png" width="400" height="300">
 
 ## Methodology
 <img src="Methodology.png" width="300" height="500">
 
 ## Example Explanation
-<img src="LIME.png" width="600" height="500">
+<img src="LIME.png" width="700" height="500">
 
 ## Citation
 If you use the dataset, please cite the following paper:
