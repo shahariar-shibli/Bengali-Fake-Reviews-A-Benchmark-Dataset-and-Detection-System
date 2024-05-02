@@ -47,7 +47,7 @@ The repository has two folders:
 <img src="lengthChart.png" width="400" height="300">
 
 ## Methodology
-<img src="Methodology.png" width="300" height="500">
+<img src="Methodology.png" width="400" height="600">
 
 ## Example Explanation
 <img src="LIME.png" width="700" height="500">
