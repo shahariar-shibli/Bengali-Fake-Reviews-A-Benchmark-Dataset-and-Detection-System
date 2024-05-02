@@ -53,6 +53,9 @@ The repository has two folders:
 ## Methodology
 <img src="Methodology.png" width="400" height="600">
 
+## Result Comparison
+<img src="Results.png" width="700" height="200">
+
 ## Example Explanation
 <img src="LIME.png" width="650" height="400">
 
