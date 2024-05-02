@@ -34,6 +34,7 @@ The repository has two folders:
 	- Non-fake - 7710
 
 - Class wise statistics of BFRD dataset
+
 |       **Statistics**       | **Fake** | **Non-fake** |
 |--------------------------|---------|-------------|
 |         Total words        | 1,55,789 |   9,27,902   |
