@@ -50,7 +50,7 @@ The repository has two folders:
 <img src="Methodology.png" width="400" height="600">
 
 ## Example Explanation
-<img src="LIME.png" width="550" height="400">
+<img src="LIME.png" width="650" height="400">
 
 ## Citation
 If you use the dataset, please cite the following paper:
