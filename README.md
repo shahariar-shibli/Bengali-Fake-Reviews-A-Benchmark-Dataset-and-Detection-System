@@ -18,13 +18,15 @@ The repository has two folders:
 
 + **Codes**: All the codes for deep learning models, transformers, ensemble model and text conversion pipeline are available.
 	
-	- **Models on  HugginFace**: https://huggingface.co/shawon95/BengaliFakeReviewDetection
+	- **Fine-tuned BanglaBERT model on HugginFace**: https://huggingface.co/shawon95/BengaliFakeReviewDetection
 
 + **Dataset**: Contains two excel files (a) fake.xlsx (b) non-fake.xlsx. Each excel file contains two columns: **Review** (collected raw reviews), **Label** (annotations).
 
 	- **BFRD Dataset on HuggingFace**: https://huggingface.co/datasets/shawon95/Bengali-Fake-Review-Dataset
 
 	- **BFRD Dataset on Kaggle**: https://www.kaggle.com/datasets/shawontanvir/bengali-fake-review-dataset
+	
+	- **BFRD on paperswithcode**: https://paperswithcode.com/dataset/bfrd
 
 
 ## Dataset Statistics 
