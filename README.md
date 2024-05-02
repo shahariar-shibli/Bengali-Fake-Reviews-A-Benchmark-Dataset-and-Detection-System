@@ -18,7 +18,7 @@ The repository has two folders:
 
 + **Codes**: All the codes for deep learning models, transformers, ensemble model and text conversion pipeline are available.
 	
-	- **Fine-tuned BanglaBERT model on HugginFace**: https://huggingface.co/shawon95/BengaliFakeReviewDetection
+	- **Fine-tuned BanglaBERT on HuggingFace**: https://huggingface.co/shawon95/BengaliFakeReviewDetection
 
 + **Dataset**: Contains two excel files (a) fake.xlsx (b) non-fake.xlsx. Each excel file contains two columns: **Review** (collected raw reviews), **Label** (annotations).
 
