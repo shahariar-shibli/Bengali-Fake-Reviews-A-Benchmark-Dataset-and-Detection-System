@@ -22,6 +22,10 @@ The repository has two folders:
 
 Each excel file contains two columns: **Review** (collected raw reviews), **Label** (annotations).
 
+**Our Dataset on HuggingFace**: https://huggingface.co/datasets/shawon95/Bengali-Fake-Review-Dataset
+
+**Our Dataset on Kaggle**: https://www.kaggle.com/datasets/shawontanvir/bengali-fake-review-dataset
+
 
 ## Dataset Statistics 
 - Annotated by 4 native Bangla speakers with more than 90% trustworthiness score.
