@@ -44,13 +44,13 @@ The repository has two folders:
 | Avg number of unique words |   84.99  |     88.42    |
 
 ## Class wise ratio of number of reviews with respect to the review length
-<img src="lengthChart.png" width="300" height="500">
+<img src="lengthChart.png" width="300" height="300">
 
 ## Methodology
 <img src="Methodology.png" width="300" height="500">
 
 ## Example Explanation
-<img src="LIME.png" width="300" height="500">
+<img src="LIME.png" width="500" height="500">
 
 ## Citation
 If you use the datasets, please cite the following paper:
