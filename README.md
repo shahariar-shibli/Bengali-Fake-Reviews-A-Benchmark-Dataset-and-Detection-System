@@ -9,9 +9,9 @@ We have conducted rigorous experimentation using multiple deep learning and pre-
 language models to develop a reliable detection system. Finally, we propose a weighted ensemble model 
 that combines four pre-trained transformers: *BanglaBERT, BanglaBERT Base, BanglaBERT Large* and *BanglaBERT Generator*.
 
-The paper **"Bengali Fake Reviews: A Benchmark Dataset and Detection System"** is published in [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing), a **Q1 journal** by Elsevier.
+- The paper **"Bengali Fake Reviews: A Benchmark Dataset and Detection System"** is published in [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing), a **Q1 journal** by Elsevier.
 
-**Paper Link**: https://www.sciencedirect.com/science/article/abs/pii/S0925231224005034
+- **Paper Link**: https://www.sciencedirect.com/science/article/abs/pii/S0925231224005034
 
 ## Repository Structure
 The repository has two folders:
