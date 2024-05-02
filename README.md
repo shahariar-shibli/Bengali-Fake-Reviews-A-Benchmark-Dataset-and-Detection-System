@@ -20,9 +20,9 @@ The repository has two folders:
 
 + **Dataset**: Contains two excel files (a) fake.xlsx (b) non-fake.xlsx. Each excel file contains two columns: **Review** (collected raw reviews), **Label** (annotations).
 
-**Our Dataset on HuggingFace**: https://huggingface.co/datasets/shawon95/Bengali-Fake-Review-Dataset
+**BFRD Dataset on HuggingFace**: https://huggingface.co/datasets/shawon95/Bengali-Fake-Review-Dataset
 
-**Our Dataset on Kaggle**: https://www.kaggle.com/datasets/shawontanvir/bengali-fake-review-dataset
+**BFRD Dataset on Kaggle**: https://www.kaggle.com/datasets/shawontanvir/bengali-fake-review-dataset
 
 
 ## Dataset Statistics 
