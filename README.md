@@ -28,11 +28,10 @@ The repository has two folders:
 ## Dataset Statistics 
 - Annotated by 4 native Bangla speakers with more than 90% trustworthiness score.
 - Fleiss' Kappa Score: 0.83
+- Number of Total Data
 
-## Number of Total Data
-
-- Fake - 1339
-- Non-fake - 7710
+	- Fake - 1339
+	- Non-fake - 7710
 
 ## Class wise statistics of BFRD dataset
 |       **Statistics**       | **Fake** | **Non-fake** |
@@ -44,16 +43,16 @@ The repository has two folders:
 | Avg number of unique words |   84.99  |     88.42    |
 
 ## Class wise ratio of number of reviews with respect to the review length
-<img src="lengthChart.png" width="300" height="300">
+<img src="lengthChart.png" width="400" height="300">
 
 ## Methodology
 <img src="Methodology.png" width="300" height="500">
 
 ## Example Explanation
-<img src="LIME.png" width="500" height="500">
+<img src="LIME.png" width="600" height="500">
 
 ## Citation
-If you use the datasets, please cite the following paper:
+If you use the dataset, please cite the following paper:
 ```
 @article{SHAHARIAR2024127732,
 title = {Bengali fake reviews: A benchmark dataset and detection system},
