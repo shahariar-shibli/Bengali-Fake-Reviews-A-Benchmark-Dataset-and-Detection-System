@@ -13,6 +13,8 @@ that combines four pre-trained transformers: *BanglaBERT, BanglaBERT Base, Bangl
 
 - **Paper Link**: https://www.sciencedirect.com/science/article/abs/pii/S0925231224005034
 
+- **Paper PDF**: https://arxiv.org/pdf/2308.01987
+
 ## Repository Structure
 The repository has two folders:
 
